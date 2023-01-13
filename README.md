@@ -30,6 +30,10 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=9minseok&&show_icons=true&theme=dark)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=9minseok&&show_icons=true&theme=calm)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=alstjr4752)](https://solved.ac/alstjr4752)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr4752)](https://solved.ac/alstjr4752)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=alstjr4752)](https://solved.ac/alstjr4752)
 
 </div>
