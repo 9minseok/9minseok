@@ -31,8 +31,6 @@
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=9minseok&&show_icons=true&theme=calm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9minseok)](https://github.com/9minseok/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr4752)](https://solved.ac/alstjr4752)
 
 
