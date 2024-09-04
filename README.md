@@ -8,13 +8,6 @@
 
  <br/>
  <br/>
-  
-<h3 align="center">:mag_right: Follow Me :mag:</h3>
-<p align="center">
-  <a href="https://www.instagram.com/mlnseokk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:minseok4752@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-  <a href="https://sudsy-ray-934.notion.site/Hello-I-m-MinSeok-0d528e6aa43840cdbb9d8f0d75c6d3c8?pvs=4"><img src="https://img.shields.io/badge/Notion-3766AB?style=flat-square&logo=Notion&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
 
    <br/>
 
